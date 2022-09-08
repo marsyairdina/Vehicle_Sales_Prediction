@@ -1,5 +1,5 @@
 # Vehicle_Sales_Prediction
-Prediction of vehicle sale prices from dataset of sold cars.
+Prediction of vehicle sale prices from dataset of sold cars using a supervised model of machine learning.
 
 
 Columns of dataset:
